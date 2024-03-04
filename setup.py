@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='cat',
+    name='test-cat-zhiweiHong',
     version='1.0.0',
     packages=find_packages(),
     entry_points={
@@ -10,9 +10,9 @@ setup(
         ]
     },
     description='A simple Python package that provides functionalities related to cats.',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/cat',
+    author='zhiweiHong',
+    author_email='970060150@qq.com',
+    url='https://github.com/zhiweiHong/test-cat-zhiweihong',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
